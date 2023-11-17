@@ -1,0 +1,27 @@
+h1{
+  color:black
+}
+h2{
+  color: #fac900;
+  text-underline-position: below
+}
+li{
+  color: rosybrown;
+font-weight:bold;
+}
+h3{
+  text-decoration: underline;
+  color:blueviolet;
+  font-size: 20px;
+}
+h4{
+   text-decoration: underline;
+  color:aquamarine;
+    font-size: 20px;
+}
+h5{
+  color:orangered;
+font-size: 20px;
+  text-decoration: underline;
+}
+
